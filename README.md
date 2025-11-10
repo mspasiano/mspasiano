@@ -1,7 +1,6 @@
 <div align="center">
     <h1>
         😀 Greetings! 👋 
-        <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=curiuosci.mspasiano&left_color=grey&right_color=black"> 
         <a href="https://github.com/mspasiano?tab=followershttps://github.com/mspasiano?tab=followers">
             <img align="center" src="https://img.shields.io/github/followers/mspasiano.svg?style=social&label=follow&maxAge=2592000">
         </a>
